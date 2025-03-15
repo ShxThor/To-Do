@@ -1,0 +1,107 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAbstractInvocation_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F34e54cf52b4a4c2b82645ccc3a46837e5e000_003F76_003F7c551d52_003FAbstractInvocation_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AConsoleColor_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fb19c112d1b5049e9901def9b78caff492a8b0_003F0a_003Fa3269bdb_003FConsoleColor_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AExceptionDispatchInfo_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fbd1d5c50194fea68ff3559c160230b0ab50f5acf4ce3061bffd6d62958e2182_003FExceptionDispatchInfo_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AInterfaceMethodWithoutTargetInvocation_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F34e54cf52b4a4c2b82645ccc3a46837e5e000_003F91_003F2e72b1e4_003FInterfaceMethodWithoutTargetInvocation_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fd882146b4f265f10bcbec2663fce248db9ffec5fa1aeaf76e32a11ba5eafcd6_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AObject_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F9a6b1457cbcf17db31a383ba49ef9bcc786cf3ef77146d997eee499b27a46d_003FObject_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AReceivedCallsExceptionThrower_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F402b2077f38742cb9b381ab9e79e493229c00_003Fcb_003F0921cf3a_003FReceivedCallsExceptionThrower_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AReflect_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F538e3b0f6405dc6d87f23e7f33756211ea334b874b2da9ad4acb273a48113_003FReflect_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ASafeFileHandle_002EWindows_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F261ea83c988816e3d8fe76b15b7ac6c10af64b8f9e739854f83c137c8ba9_003FSafeFileHandle_002EWindows_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AWorkItem_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FTizian_002EDeneke_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fd056b4e3b34cd15e21dec611d5b5bbaf85e1f15b445f4e6b3e4dc6634d649042_003FWorkItem_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17f914c0_002D4804_002D4bce_002D9485_002D31a357bea02c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestEnterData" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestEnterData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestConsoleWriter.TestConsoleWriteList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestChooseActionNewToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestChooseActionDeleteToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestChooseActionErrorMessageIfInputIsFaulty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestNewToDoReturnedNormalToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestNewToDoReturnedDeadlineToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoAddDeadlineToToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoRemoveDeadlineFromToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoChangeFromNormalToImportantToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoChangeTextOfToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoErrorMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestDeleteToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestUnfinishFinishedToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestYesNoChoiceInputYes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestYesNoChoiceInputNo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestYesNoChoiceFaultyInput&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterDeadlineReturnFilterdToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterNoDeadlineReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterImportantReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterNormalReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterFinishedReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterOverDueReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterDueSoonReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByAlphabetReturnToDoList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByImportanceReturnToDoList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByDateReturnToDoList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByFinishedReturnToDoList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6a81ca0a_002D0dcf_002D4541_002D819d_002Dcc607f1cb052/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestNavigateToDoCollectionNewToDo #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestNavigateToDoCollectionNewToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestNavigateToDoCollectionEditToDo&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e1d048b_002De96d_002D4d77_002D92b0_002D819daa36a212/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestNavigateToDoCollectionNewToDo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestNavigateToDoCollectionNewToDo&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=958cd184_002D4506_002D4684_002Db7ce_002D4bb105bba51b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestSortByCollectionReturnToDoList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByCollectionReturnToDoList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=966247f8_002D80bb_002D4865_002Dbaa1_002Df1acbcbfafb5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestFilterToDoCollectionReturnFilteredToDoCollection" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterToDoCollectionReturnFilteredToDoCollection&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a2e62663_002D713c_002D4dcc_002Da96b_002Db0e8e5f051cf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" IsLocked="True" Name="TestStringReturnOfEnterToDo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestEnterData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestConsoleWriter.TestConsoleWriteList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestChooseActionNewToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestChooseActionDeleteToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation.TestChooseActionErrorMessageIfInputIsFaulty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestNavigation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestNewToDoReturnedNormalToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestNewToDoReturnedDeadlineToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoAddDeadlineToToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoRemoveDeadlineFromToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoChangeFromNormalToImportantToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoChangeTextOfToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestEditToDoErrorMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestDeleteToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestUnfinishFinishedToDo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestYesNoChoiceInputYes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestYesNoChoiceInputNo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestYesNoChoiceFaultyInput&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterDeadlineReturnFilterdToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterNoDeadlineReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterImportantReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterNormalReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterFinishedReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterOverDueReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestFilterList.TestFilterDueSoonReturnFilteredToDos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByAlphabetReturnToDoList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByImportanceReturnToDoList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByDateReturnToDoList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestSortToDos.TestSortByFinishedReturnToDoList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aa4309d5_002Dad0a_002D48de_002D9ee4_002D69c4fd7500a5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestNewCollectorToDoReturnedToDoCollector" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D1AD85DE-DDC0-425C-BE65-713001A22D3F::net8.0::Test.To_Do.TestToDoHandling.TestNewCollectorToDoReturnedToDoCollector&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
